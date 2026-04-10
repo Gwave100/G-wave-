@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>G'wave</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h2>G’wave</h2>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="shop.html">Shop</a>
+    <a href="music.html">Music</a>
+    <a href="community.html">Community</a>
+    <a href="about.html">About</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>Everything For Every Culture</h1>
+  <button class="btn">Shop Now</button>
+</section>
+
+<section class="section">
+  <h1>Featured Drop</h1>
+  <div class="grid">
+    <div class="card">Hoodie</div>
+    <div class="card">T-Shirt</div>
+    <div class="card">Hat</div>
+  </div>
+</section>
+
+</body>
+</html>

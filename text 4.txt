@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Music</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h2>G’wave</h2>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="shop.html">Shop</a>
+    <a href="music.html">Music</a>
+    <a href="community.html">Community</a>
+    <a href="about.html">About</a>
+  </nav>
+</header>
+
+<section class="section">
+  <h1>Music</h1>
+  <p>Coming soon: G’wave artists & global sound.</p>
+</section>
+
+</body>
+</html>

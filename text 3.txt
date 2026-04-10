@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Shop</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h2>G’wave</h2>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="shop.html">Shop</a>
+    <a href="music.html">Music</a>
+    <a href="community.html">Community</a>
+    <a href="about.html">About</a>
+  </nav>
+</header>
+
+<section class="section">
+  <h1>Shop</h1>
+  <div class="grid">
+    <div class="card">Bomber Jacket - $120</div>
+    <div class="card">Cargo Pants - $85</div>
+    <div class="card">Graphic Tee - $35</div>
+  </div>
+</section>
+
+</body>
+</html>
